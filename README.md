@@ -10,6 +10,7 @@
 Using business intelligence techniques, this dashboard visualizes key metrics such as Total Revenue, Total Shipping Cost, Total Sales, and Average Defect Rate, helping decision-makers quickly identify strengths and bottlenecks in the supply chain process.
 
 
+<img width="840" height="477" alt="supply chain" src="https://github.com/user-attachments/assets/78442c27-9843-4324-bc40-b64cf181971f" />
 
 
 
