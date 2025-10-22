@@ -1,5 +1,10 @@
 
 # Supply Chain Analysis
+# Table of contents 
+- [Project overview](#projectoverview)
+- [Data sources](#datasources)
+- [Recommendations](#recommendations)
+
  ### Project Overview
  The Supply Chain Dashboard project was developed to provide a clear, data-driven understanding of how products move through a company’s supply chain from production to customer delivery. The goal of this analysis was to uncover insights that could improve efficiency, reduce costs, and optimize overall performance across product categories, transportation modes, and shipping carriers.
 Using business intelligence techniques, this dashboard visualizes key metrics such as Total Revenue, Total Shipping Cost, Total Sales, and Average Defect Rate, helping decision-makers quickly identify strengths and bottlenecks in the supply chain process.
